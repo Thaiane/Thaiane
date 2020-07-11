@@ -16,7 +16,7 @@ const thai = {
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities": {
+  techCommunities: {
                         coorganizer: "AfroPython",
                         speaker: "Latinity",
                         mentor: "RailsGirls POA"
@@ -25,6 +25,6 @@ const thai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> _**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :)_ 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
