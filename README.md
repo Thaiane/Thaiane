@@ -6,16 +6,17 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Personal Interests 
 
 > <img src="https://media.giphy.com/media/WoXpsZ8tqOiRmzDqKe/giphy.gif" width="30"> **Code:** _Ruby, Javascript, HTML/CSS, Python and Java_ <br>
-<img src="https://media.giphy.com/media/KYG2W85RyoQEaJsQnJ/giphy.gif" width="30"> **Challenge:** _I'm doing the [#100DaysOfCode challenge](https://www.100daysofcode.com) focused on react and typescript_ <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">**Tech Communities:** _Co-organizer of [AfroPython](https://twitter.com/AfroPython), speaker and mentor in [Latinity](https://twitter.com/LatinityConf) and [RailsGirls POA](http://railsgirls.com/porto-alegre/portoalegre2019.html).<br>I love connecting with different people so **if you want to say hi, I'll be happy to meet you more**_</ul>
+> <img src="https://media.giphy.com/media/KYG2W85RyoQEaJsQnJ/giphy.gif" width="30"> **Challenge:** _I'm doing the [#100DaysOfCode challenge](https://www.100daysofcode.com) focused on react and typescript_ <br>
+> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">**Tech Communities:** _Co-organizer of [AfroPython](https://twitter.com/AfroPython), speaker and mentor in [Latinity](https://twitter.com/LatinityConf) and [RailsGirls POA](http://railsgirls.com/porto-alegre/portoalegre2019.html)_<br> _**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more! :)**_</ul>
 
 ### <img src="https://media.giphy.com/media/LoIFTSQ2JOBfEzS1Sl/giphy.gif" width="40"> A little more about me... 
 
-> <img src="https://media.giphy.com/media/lQ1nGWPO13e2eBFfyF/giphy.gif" width="30">**Pronouns:** _she/her_ <br>
-<img src="https://media.giphy.com/media/XbVMnNMJIDTG0yQSHT/giphy.gif" width="30">**Hobbies:** _read books, play videogame and board games with friends_ <br>
+> <img src="https://media.giphy.com/media/lQ1nGWPO13e2eBFfyF/giphy.gif" width="25">**Pronouns:** _she/her_ <br>
+<img src="https://media.giphy.com/media/tXSZwvc2JPl4Y/giphy.gif" width="25">**Hobbies:** _read books, play videogame and board games with friends_ <br>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">**Experience:** I've worked with Ruby on Rails, Java with microservices, RabbitMQ and arquitecture events, design system..._
 
 ```
