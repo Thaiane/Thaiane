@@ -13,7 +13,7 @@
 ```javascript
 {
   "Code": [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  "Tools": [React, Redux, Node, Storybook, Styled-Components, Jest, React Test Library, Docker, Jenkins],
+  "Tools": [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   "architecture": ["microservices", "event-driven", "design system pattern"],
   "Tech Communities": {
                         "coorganizer": "AfroPython",
