@@ -24,12 +24,6 @@
 }
 ```
 
-<h3> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> If you're part of an underrepresented group in the developer community, I'd like to help you with: </h3>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> _**I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more!** :)_  </h3>
 
-> - Being more involved with the developer community in the Brazil.
-> - Help with writing Call for Papers, give feedback on presentations.
-> - Getting started with security information or development tips.
-
-
- >> **I love connecting with different people** so if you want to say **hi, I'll be happy to meet you more! :)**_ 
 ---
