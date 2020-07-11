@@ -1,6 +1,8 @@
 <h2> Hey there, I'm Thai Braga <img src="https://media.giphy.com/media/553ZGCzYHSQHXiFKA8/giphy.gif" width="50"> </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200">
-
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a></br> 
+  Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a></em>
+</p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
